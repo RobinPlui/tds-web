@@ -1,0 +1,16 @@
+body {
+	front-family: Verdana, Arial, Helvetica, sans-serif;	
+}
+h1{
+	color: yellow;
+	background: black;
+}
+p pan {
+	color: green;
+	front-weight: bold;
+	text-decoration: underline;
+}
+
+#t1{
+	text-decoration: underline;
+}
