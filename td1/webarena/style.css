@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+header
+{
+    background-image: url("header-bg.jpg");
+    background-repeat: no-repeat;
+    width: 1910px;
+    height: 103px;
+    padding: 0;
+}
+.liste{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding-left: 100rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-image: url("header-bg.jpg");
+    background-repeat: no-repeat;
+    width: 1870px;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+}
+footer{
+    color: aliceblue;
+}
+ul:first-child{
+    padding-left: 1800px;
+    
+ }
